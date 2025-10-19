@@ -1,1 +1,2 @@
-print"it should work"
+print("hello github from vs code")
+
